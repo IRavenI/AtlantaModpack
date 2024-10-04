@@ -1,0 +1,17 @@
+{
+	id: "4c055859-d303-4c2c-8e77-837c7e406633"
+	type: "player"
+	player_name: "RaitoOni"
+	ranks: {
+		4c055859-d303-4c2c-8e77-837c7e406633: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RaitoOni"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
